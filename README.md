@@ -18,4 +18,3 @@ Proyecto donde los aprendices cargaran sus hojas de vida
 15. [SAMLY GUZMAN](samly.md)
 16. [EMERSON GONZALEZRUBIO](emerson.md)
 17. [LEIDY QUIROGA](leidy.md)
-18. [emauel alvares ] (emanuel145.md)
